@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Jogando 10ºBAEP Virtual","BAEP VIRTUAL"];
+const statusMessages = ["Jogando 10ºBAEP Virtual","Assistindo: 10ºBAEP"];
 
 
 let currentIndex = 0;
